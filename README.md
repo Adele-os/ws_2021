@@ -1,6 +1,3 @@
-# ws_2021
-Scraping the recent Computer Science papers from arxiv.org
-
 ## Instruction for running the scrapers
 
 <b>Beautiful Soup</b>: For running the Beautiful Soup scraper, from your CMD/Terminal please go to the directory in which the `arxiv_(BS).py` is located and then run the file by using either:
